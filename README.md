@@ -1,17 +1,17 @@
 # [goAct](http://www.goact.co) webservice API documentation (Beta)
  
 
-![goAct logo](goact-api/images/goact_logo.png)
+![goAct logo](docs/images/goact_logo.png)
   
 You can use the following assets:
 
-## [DATASERVICE](docs/01.DataService.md)
+## [Data Service](docs/01.DataService.md)
 
 This chapter describes how data service works.
 
-## [User account resources](docs/02.UserAccount.md)
+## [User account](docs/02.UserAccount.md)
 
-This chapter describes the resources for retrieving user data.
+This chapter describes how user account list is obtained.
 
 ## [Push notification](docs/03.PushNotication.md)
 
