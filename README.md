@@ -1,4 +1,4 @@
-# [goAct](http://www.goact.co) webservice API documentation (Beta)
+# [goAct](http://www.goact.co) webservice API documentation
  
 
 ![goAct logo](docs/images/goact_logo.png)
