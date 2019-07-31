@@ -13,7 +13,7 @@ This chapter describes how data service works.
 
 This chapter describes how user account list is obtained.
 
-## [Push notification](docs/03.PushNotication.md)
+## [Push notification](docs/03.PushNotification.md)
 
 This chapter describes how push notification works.
  
